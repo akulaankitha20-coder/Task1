@@ -50,19 +50,19 @@ body {
   font-size: 2.5rem;
 }
 .hero-text span {
-  color: #ff9800;
+  color: #0000ff;
 }
 .btn {
   display: inline-block;
   margin-top: 1rem;
   padding: 0.7rem 1.5rem;
-  background: #ff9800;
+  background: #1e00ff;
   color: #fff;
   border-radius: 5px;
   text-decoration: none;
 }
 .btn:hover {
-  background: #e68900;
+  background: #0032e6;
 }
 
 /* About Page */
@@ -99,13 +99,13 @@ body {
 }
 .contact-form button {
   padding: 0.7rem;
-  background: #4facfe;
+  background: #7efe4f;
   color: #fff;
   border: none;
   border-radius: 5px;
 }
 .contact-form button:hover {
-  background: #007bb5;
+  background: #00b500;
 }
 
 /* Footer */
